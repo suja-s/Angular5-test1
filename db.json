@@ -5,8 +5,7 @@
     {"id": 3,"name": "Rex","age":5}
   ],
   "test1": [
-    {
-     {"id": 4,"name": "aaa","age":7},
+    {"id": 4,"name": "aaa","age":7},
     {"id": 5,"name": "bbb","age":9},
     {"id": 6,"name": "ccc","age":5}
   ]
